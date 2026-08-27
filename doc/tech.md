@@ -10,6 +10,10 @@ Logos and tech themed wallpapers.
 
 ![AuriOS-LightLogo](../tech/AuriOS-LightLogo.png)
 
+### AuriOS-DarkLogo
+
+![AuriOS-DarkLogo](../tech/AuriOS-DarkLogo.png)
+
 ### bubbles
 
 ![bubbles](../tech/bubbles.png)
