@@ -7,13 +7,13 @@ A curated collection of wallpapers, sorted by theme.
 | Category    | Count | Page                                     |
 | ----------- | ----- | ---------------------------------------- |
 | Arts        | 11    | [doc/arts.md](doc/arts.md)               |
-| Lain        | 4     | [doc/lain.md](doc/lain.md)               |
+| Lain        | 5     | [doc/lain.md](doc/lain.md)               |
 | Landscape   | 7     | [doc/landscape.md](doc/landscape.md)     |
 | Simple      | 4     | [doc/simple.md](doc/simple.md)           |
 | Tech        | 3     | [doc/tech.md](doc/tech.md)               |
 | Widescreens | 1     | [doc/widescreens.md](doc/widescreens.md) |
 
-**Total: 30 wallpapers**
+**Total: 31 wallpapers**
 
 ## Structure
 
