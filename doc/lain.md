@@ -8,7 +8,7 @@ Wallpapers from _Serial Experiments Lain_.
 
 ### lail_full
 
-![lail_full](../lain/lail_full.jpg)
+![lail_full](../lain/lain_full.jpg)
 
 ### lain_left
 
